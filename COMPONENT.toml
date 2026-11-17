@@ -3,7 +3,7 @@ name = "SigmaOS-ike"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ike component"
+description = "IKE"
 upstream = []
 
 [contract]
